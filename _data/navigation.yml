@@ -20,6 +20,8 @@ foo:
 
 # main links controls the top bar
 main:
+  - title: "Author"
+    url: /author/
   - title: "Section"
     url: /section/
   - title: "Archive"
