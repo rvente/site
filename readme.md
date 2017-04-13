@@ -44,25 +44,24 @@ author: FIRSTNAME  LASTNAME as defined in /_data/authors.yml
 
 The [authors page](https://github.com/tblslatineer/tblslatineer.github.io/blob/master/_data/authors.yml) is what gives pages with a defined author a unique sidebar entry, not just the default latineer one.
 
-[Here](https://github.com/tblslatineer/blob/master/docs/.docs/09-authors.md) are the guidlines.
+[Here](https://github.com/tblslatineer/tblslatineer.github.io/blob/master/_docs/09-authors.md) are the guidlines.
 
 ## Markdown
 
 Markdown is the name of the language you will use to write content in this website. [Here](https://tblslatineer.github.io/ink/markup/markup-html-tags-and-formatting/) is what all of the levels are and how they actually look on the site.
 
-You can see the complete guide [here](https://github.com/tblslatineer/ink/blob/master/docs/_posts/2013-01-11-markup-html-tags-and-formatting.md). But for immediate reference:
+You can see the complete guide [here](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet). But for immediate reference:
 
 ```
 ## Title / Header
 
-paragraph *italic* **bold** ***bold italic*** People think focus means saying yes to the thing you've got to focus on. But that's not what it means at all. It means saying no to the hundred other good ideas that there are. You have to pick carefully. I'm actually as proud of the things we haven't done as the things I have done. Innovation is saying no to 1,000 things.
+paragraph notice how paragraphs are separated by empty lines *italic* **bold** ***bold italic*** FILLER TEXT People think focus means saying yes to the thing you've got to focus on. But that's not what it means at all. It means saying no to the hundred other good ideas that there are. You have to pick carefully. I'm actually as proud of the things we haven't done as the things I have done. Innovation is saying no to 1,000 things. END FILLER TEXT
 
 Multi line blockquote with a cite reference:
 
 > People think focus means saying yes to the thing you've got to focus on. But that's not what it means at all. It means saying no to the hundred other good ideas that there are. You have to pick carefully. I'm actually as proud of the things we haven't done as the things I have done. Innovation is saying no to 1,000 things.
 
 <cite>Steve Jobs</cite> --- Apple Worldwide Developers' Conference, 1997
-{: .small}
 ```
 renders to
 
