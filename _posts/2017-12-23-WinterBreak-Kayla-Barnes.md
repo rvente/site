@@ -31,7 +31,7 @@ Treat yourself by enjoying the City’s best hot chocolate this winter break. Fa
 
 7.  ### Sing Your Heart Out
 
-Still in that holiday spirit after the 25^th^? Sing your personal rendition of your favorite holiday songs to your friends at the City’s multiple karaoke locations. Karaoke Duet offers a room rating at $5 per person for an hour. Nemo NYC is another popular karaoke location as it offers guests a menu so that they can sing and eat.
+Still in that holiday spirit after the 25th? Sing your personal rendition of your favorite holiday songs to your friends at the City’s multiple karaoke locations. Karaoke Duet offers a room rating at $5 per person for an hour. Nemo NYC is another popular karaoke location as it offers guests a menu so that they can sing and eat.
 8.  ### New Year’s Fireworks
 
 Bring in the New Year’s by watching the fireworks show. The Coney Island Beach is offering a night full of live performances, free rides and ice skating and is ending the night with fireworks as to bring in the New Year. Prospect Park and Central Park are also offering live performances and fireworks.
