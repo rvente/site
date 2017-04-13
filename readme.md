@@ -6,6 +6,10 @@
 * add the sidebar to the section page
 * ~complete the front page for all of the section categories~
 
+---
+
+# Daily Use
+
 ## Adding a post
 
 Adding a new article is done in three easy steps:
@@ -34,7 +38,7 @@ author: FIRSTNAME  LASTNAME as defined in /_data/authors.yml
 ```
 ---
 
-
+# Administrative Tasks
 
 ## Authors
 
