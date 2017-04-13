@@ -131,12 +131,12 @@ sidebar:
   - title: "Sections"
     children:
       - title: "News"
-        url: /categories/#news
+        url: /section/#news
       - title: "Features"
-        url: /categories/#features
+        url: /section/#features
       - title: "Opinion"
-        url: /categories/#opinion
+        url: /section/#opinion
       - title: "Sports"
-        url: /categories/#sports
+        url: /section/#sports
       - title: "Entertainment"
-        url: /categories/#entertainment
+        url: /section/#entertainment
