@@ -2,9 +2,8 @@
 title: "Headmaster's Corner"
 categories:
   - features
+author: Gina Mautschke
 ---
-
-# Headmaster’s Corner
 
 by Headmaster Gina Mautschke-Mitchell
 

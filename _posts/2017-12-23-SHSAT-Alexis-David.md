@@ -2,11 +2,8 @@
 title: "The SHSAT’ s Admission Process shakes some things up"
 categories:
   - features
+author: Alexis David
 ---
-
-# The SHSAT’s Admission Process shakes some things up
-
-By Alexis David
 
 In October of 2016, the Specialized High School Admissions Test (SHSAT) exams made several changes in hopes of heightening diversity in New York’s specialized high schools.  The success achieved through hard work and equal opportunity is not a concept foreign to the diverse body of students attending The Brooklyn Latin School.
 
