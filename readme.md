@@ -10,23 +10,13 @@
 
 Adding a new article is done in three easy steps:
 
-1. Go to [`/ink/docs/_posts`](https://github.com/tblslatineer/ink/tree/master/docs/_posts) by clicking that link.
+1. Go to [`/ink/docs/_posts`](https://github.com/tblslatineer/tblslatineer.github.io/tree/master/_posts) by clicking that link.
 2. Title your new article using the format `yyyy-mm-dd-postname.md.` d is the day, m is the month, y is the year. **this is important because the page won't accept changes if the date is wrong** If the date is only in single digits, supply a leading zero. eg. `2017-04-03` is April 3rd 2017. This part is important as the posting date is needed by the site to know how to order things.
 3. Paste in your text. No extra formatting is needed. If you do want to know how to make your articles pop with meaningful formatting, you can learn about [Markdown](#markdown) later in this document. Then, scroll to the bottom and hit `commit.` Your entire article will propogate through in about 5 minutes.
 
----
-
-All posts go in `/ink/docs/_posts` regardless of category. They should be files with the `.md` suffix. Each post gets one file each file gets one post. The name of the file should be the current date with dashes as separators. eg `2010-02-05-post-name.md`
-
-## Authors
-
-The [authors page](https://github.com/tblslatineer/ink/blob/master/docs/_data/authors.yml) is what gives pages with a defined author a unique sidebar entry, not just the default latineer one.
-
-[Here](https://github.com/tblslatineer/blob/master/docs/.docs/09-authors.md) are the guidlines.
-
 ## Front Matter
 
-This is what the website uses to organise everything. Copy it into the *begining* of the document before anything else.
+This is what the website uses to organise everything. Copy it into the *begining* of the document before anything else. Delete the entire line of the categories you don't need. Don't leave a blank line. [Example](https://raw.githubusercontent.com/tblslatineer/tblslatineer.github.io/master/_posts/2017-12-23-SHSAT-Alexis-David.md)
 
 ```
 ---
@@ -42,6 +32,16 @@ categories:
 author: FIRSTNAME  LASTNAME as defined in /_data/authors.yml
 ---
 ```
+---
+
+
+
+## Authors
+
+The [authors page](https://github.com/tblslatineer/ink/blob/master/docs/_data/authors.yml) is what gives pages with a defined author a unique sidebar entry, not just the default latineer one.
+
+[Here](https://github.com/tblslatineer/blob/master/docs/.docs/09-authors.md) are the guidlines.
+
 ## Markdown
 
 Markdown is the name of the language you will use to write content in this website. [Here](https://tblslatineer.github.io/ink/markup/markup-html-tags-and-formatting/) is what all of the levels are and how they actually look on the site.
