@@ -42,7 +42,7 @@ author: FIRSTNAME  LASTNAME as defined in /_data/authors.yml
 
 ## Authors
 
-The [authors page](https://github.com/tblslatineer/ink/blob/master/docs/_data/authors.yml) is what gives pages with a defined author a unique sidebar entry, not just the default latineer one.
+The [authors page](https://github.com/tblslatineer/tblslatineer.github.io/blob/master/_data/authors.yml) is what gives pages with a defined author a unique sidebar entry, not just the default latineer one.
 
 [Here](https://github.com/tblslatineer/blob/master/docs/.docs/09-authors.md) are the guidlines.
 
