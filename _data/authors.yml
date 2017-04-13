@@ -20,10 +20,9 @@ Chloe Li:
 
 Alexis David:
   name        : "Alexis David"
-  uri         : "https://github.com/rvente"
   email       : "alexisdavid443@gmail.com"
-  bio         : " I love pizza and satires."
-  avatar      : ""
+  bio         : "I love pizza and satires."
+  avatar      : "/assets/authorpics/alexisdavid.png"
   twitter     : ""
   facebook    : ""
   
