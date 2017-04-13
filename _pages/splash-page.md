@@ -42,7 +42,7 @@ feature_row:
     url: "/section/#opinions"
     btn_label: "Read More"
     btn_class: "btn--inverse"
-  - image_path: /assets/images/unsplash-gallery-image-5-th.jpg
+  - image_path: /assets/images/unsplash-image-5.jpg
     alt: "placeholder image 5"
     title: "Sports Showcase"
     excerpt: "We share some of our viewpoints on things going on in the world."
