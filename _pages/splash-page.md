@@ -29,10 +29,24 @@ feature_row:
     btn_label: "Read More"
     btn_class: "btn--inverse"
   - image_path: /assets/images/unsplash-gallery-image-3-th.jpg
-    alt: "placeholder image 2"
+    alt: "placeholder image 3"
     title: "Entertainment Hub"
     excerpt: "We review movies, TV shows, and other media with that oh-so-critical TBLS lens."
     url: "/section/#entertainment"
+    btn_label: "Read More"
+    btn_class: "btn--inverse"
+  - image_path: /assets/images/unsplash-gallery-image-4-th.jpg
+    alt: "placeholder image 4"
+    title: "Opinion Articles"
+    excerpt: "We share some of our viewpoints on things going on in the world."
+    url: "/section/#opinions"
+    btn_label: "Read More"
+    btn_class: "btn--inverse"
+  - image_path: /assets/images/unsplash-gallery-image-5-th.jpg
+    alt: "placeholder image 5"
+    title: "Sports Showcase"
+    excerpt: "We share some of our viewpoints on things going on in the world."
+    url: "/section/#sports"
     btn_label: "Read More"
     btn_class: "btn--inverse"
 ---
