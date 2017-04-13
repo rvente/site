@@ -11,8 +11,8 @@
 Adding a new article is done in three easy steps:
 
 1. Go to [`/ink/docs/_posts`](https://github.com/tblslatineer/ink/tree/master/docs/_posts) by clicking that link.
-2. Title your new article using the format `yyyy-mm-dd-postname.md.` d is the day, m is the month, y is the year. **this is important because the page won't accept changes if the date is wrong** If the date is only in single digits, supply a leading zero. eg. `2017-04-03`is April 3rd 2017. This part is important as the posting date is needed by the site to know how to order things.
-3. Paste in your text. No extra formatting is needed. If you do want to know how to make your articles pop with meaningful formatting, you can learn about Markdown later in this document. Then, scroll to the bottom and hit `commit.` Your entire article will propogate through.
+2. Title your new article using the format `yyyy-mm-dd-postname.md.` d is the day, m is the month, y is the year. **this is important because the page won't accept changes if the date is wrong** If the date is only in single digits, supply a leading zero. eg. `2017-04-03` is April 3rd 2017. This part is important as the posting date is needed by the site to know how to order things.
+3. Paste in your text. No extra formatting is needed. If you do want to know how to make your articles pop with meaningful formatting, you can learn about [Markdown](#markdown) later in this document. Then, scroll to the bottom and hit `commit.` Your entire article will propogate through in about 5 minutes.
 
 ---
 
@@ -22,11 +22,11 @@ All posts go in `/ink/docs/_posts` regardless of category. They should be files 
 
 The [authors page](https://github.com/tblslatineer/ink/blob/master/docs/_data/authors.yml) is what gives pages with a defined author a unique sidebar entry, not just the default latineer one.
 
-[Here](https://github.com/tblslatineer/ink/blob/master/docs/.docs/09-authors.md) are the guidlines.
+[Here](https://github.com/tblslatineer/blob/master/docs/.docs/09-authors.md) are the guidlines.
 
 ## Front Matter
 
-This is what the website uses to organise everything. Copy it into the *begining* of the document.
+This is what the website uses to organise everything. Copy it into the *begining* of the document before anything else.
 
 ```
 ---
