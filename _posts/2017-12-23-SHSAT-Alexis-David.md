@@ -1,7 +1,7 @@
 ---
 title: "The SHSAT’s Admission Process shakes some things up"
 categories:
-  - features
+  - features
 author: Alexis David
 ---
 
