@@ -1,10 +1,12 @@
 ## agenda
 
 * add a ton of articles in
-* For reference, I plan to upload this to `/guide/`
 * ~add opinion and sports sections in the sidebar and to the homepage~
-* add the sidebar to the section page
+* add the sidebar / toc to the section page
 * ~complete the front page for all of the section categories~
+* ~add a way to sort by author~
+* maybe add `site.author` next to read time
+* For reference, I plan to upload this to `/guide/`
 
 ---
 
