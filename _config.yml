@@ -240,6 +240,9 @@ whitelist:
 category_archive:
   type: liquid
   path: /section/
+author_archive:
+  type: liquid
+  path: /author/
 tag_archive:
   type: liquid
   path: /tags/
