@@ -12,36 +12,25 @@ Ralph Vente:
 
 Chloe Li:
   name        : "Chloe Li"
-  email       : ""
-  bio         : ""
-  avatar      : ""
-  twitter     : ""
-  google_plus : ""
 
 Alexis David:
   name        : "Alexis David"
   email       : "alexisdavid443@gmail.com"
   bio         : "I love pizza and satires."
   avatar      : "/assets/authorpics/alexisdavid.png"
-  twitter     : ""
-  facebook    : ""
+
   
 Catalina Meza:
   name        : "Cat Meza U."
-  uri         : "https://github.com/rvente"
   email       : "ketevani.meza@gmail.com"
   bio         : "Small but ready to fight you"
-  avatar      : ""
-  twitter     : ""
-  facebook    : ""
+
 
 Jack Ryan Sarmiento:
   name        : "Jack Ryan Sarmiento"
   email       : "tblslatineer@gmail.com"
-  bio         : "I want to be an a good writer and an honest man"
+  bio         : "I want to be an a good writer and an honest man."
 
 
 Kayla Barnes:
   name        : "Kayla Barnes"
-  email       : "tblslatineer@gmail.com"
-  bio         : ""
