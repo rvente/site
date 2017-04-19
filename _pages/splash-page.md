@@ -10,7 +10,7 @@ header:
   cta_label: "About us"
   cta_url: "/about/"
   caption: "Photo credit: [**Unsplash**](https://unsplash.com)"
-excerpt: "The online home of the Latineer School newspaper. We like our news like a good lemonade: Cold, crisp, and refreshing."
+excerpt: "The online home of the Latineer School newspaper. Journalistic integrity is our middle name."
 intro: 
   - excerpt: '*esse quam videri*'
 feature_row:
@@ -24,7 +24,7 @@ feature_row:
   - image_path: /assets/images/unsplash-gallery-image-2-th.jpg
     alt: "placeholder image 2"
     title: "Feature Articles"
-    excerpt: "We react to new developments of the student body. New clubs, school events, and school policy."
+    excerpt: "We react to new developments in the student body. New clubs, school events, and school policy? We cover it all here."
     url: "/section/#features"
     btn_label: "Read More"
     btn_class: "btn--inverse"
@@ -38,14 +38,14 @@ feature_row:
   - image_path: /assets/images/unsplash-gallery-image-4-th.jpg
     alt: "placeholder image 4"
     title: "Opinion Articles"
-    excerpt: "We share some of our viewpoints on things going on in the world."
+    excerpt: "We share some of our viewpoints on things going here and around the world."
     url: "/section/#opinions"
     btn_label: "Read More"
     btn_class: "btn--inverse"
   - image_path: /assets/images/unsplash-gallery-image-5-th.jpg
     alt: "placeholder image 5"
     title: "Sports Showcase"
-    excerpt: "We share some of our viewpoints on things going on in the world."
+    excerpt: "We cover frisbee, football, basketball, and everything in between."
     url: "/section/#sports"
     btn_label: "Read More"
     btn_class: "btn--inverse"
