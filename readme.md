@@ -28,7 +28,6 @@ This is what the website uses to organise everything. Copy it into the *begining
 ---
 title: "Post title"
 excerpt: "a short sentence that describes the subject matter"
-modified: 2016-11-03T11:12:40-04:00
 categories:
   - features
   - news
