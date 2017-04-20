@@ -1,6 +1,6 @@
 ---
-title: "Errang Grading System"
-exerpt: "What Our New Grading System Means for the TBLS Community"
+title: "Errant Grading System"
+excerpt: "What Our New Grading System Means for the TBLS Community"
 categories:
   - opinion
 author: Harper Clees-Baron
