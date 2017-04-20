@@ -4,8 +4,9 @@ categories:
   - features
 author: Gina Mautschke
 ---
+## by Headmaster Gina Mautschke-Mitchell
 
-### by Headmaster Gina Mautschke-Mitchell
+#### by Headmaster Gina Mautschke-Mitchell
 
 When I read the article from the last issue about Mr. Stromoski, I couldn’t help but react in a way to let all discipuli know that even without his presence, the TBLS culture and discipuli life will not change. Although Mr. Stromoski was the Assistant Head Master for Dicipuli Life, the TBLS culture will not end with his departure.
 
