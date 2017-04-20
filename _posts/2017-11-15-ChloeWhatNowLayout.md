@@ -1,3 +1,10 @@
+---
+title: "What Now?"
+categories:
+  - news
+author: Chloe Li
+---
+
 On Wednesday morning, the world woke up to the announcement that Donald Trump will be the 45th President of the United States. The now President-Elect's victory has come as a great surprise. He entered the political world as an outsider. His opponent had been in the political network for decades, and was deemed to be the most qualified candidate to be running in the rollercoaster that was the 2016 Presidential Election.
 
 What drew many people to President-Elect Donald Trump were his promises to the working class, many of whom have felt ignored. Despite his four encounters with bankruptcy, Trump's promises of economic progress and his reputation as a successful businessman intrigued voters. One anonymous Class II discipuli believes that Mr. Trump will "establish better infrastructure in the country." When asked about candidate policies regarding the Syrian refugee crisis, they outlined their concerns with Secretary Clinton's stance "not because [they] don't genuinely believe that they're running from a war and have nowhere to go, but we have problems within our society and I'm not sure that letting in people who are unvetted is the best choice."
