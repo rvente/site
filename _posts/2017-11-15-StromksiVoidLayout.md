@@ -1,3 +1,9 @@
+---
+title: "We Gain a Trump,We Lose a Stromoski"
+categories:
+  - features
+author: Victoria Michalska
+---
 Former Assistant Head Master Anthony Stromoski had been the cause of many moments of relief and despair. Mr. Stromoski started as a Latin teacher at our beloved school. Eventually, he was promoted to Assistant Head Master of Discipuli Life, a position similar to that of a dean. Here, he took it upon himself to monitor student behavior.
 
 He was the authority figure in all school-body related topics, and was typically the head of school-spirit related events, such as March Madness, the annual school-wide competition between classes.
