@@ -1,5 +1,5 @@
 ---
-title: "What Now, America"
+title: "What Now, America?"
 categories:
   - news
 author: Chloe Li
