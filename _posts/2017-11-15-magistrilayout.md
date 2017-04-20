@@ -1,3 +1,9 @@
+---
+title: "New Year, New Magistri: Here's the Scoop"
+categories:
+  - features
+author: Kayla Barnes
+---
 An essential part of the culture and teaching in Brooklyn Latin is to maintain a close environment between discipuli and magistri. Because of TBLS' group-centered learning, discipuli have many opportunities to become acquainted with each other. However, getting to know magistri—especially new ones—can be hard.
 
 In an attempt to bridge the gap between teacher and student, the Latineer interviewed the TBLS community's three recently arrived magistri: Mr. Chad Austino of the Latin Department, Ms. Quinn Neidig of the Spanish Department, and Mr. James Taveras of the Special Education Department,
