@@ -1,3 +1,10 @@
+---
+title: "Making the Leap into Freshman Year"
+categories:
+  - features
+author: Deep Patel
+---
+
 As we approach the conclusion of November, the feeling of returning to high school life is finally settling in. The transition from summer vacation to a full school year is a tough one for most, especially for the youngest members of our school community: Class IV.
 
 For many incoming discipuli, our specialized high school workload is much harder than what they faced in middle school. Zoe Law, Class IV, stated that "the workload isn't that bad, especially since we're freshmen. I feel like the teachers go easier on us. But the workload is enough to keep me busy for like 2-3 hours." On the same note, Brianna Joseph, Class IV, believes that "the workload [is] very similar to middle school" for her and hence has had a simple transition.
