@@ -1,3 +1,10 @@
+---
+title: "Errang Grading System"
+categories:
+  - opinion
+author: Harper Clees-Baron
+---
+
 When I started at Brooklyn Latin two years ago, it felt like home. Sure it was hard, and sometimes I felt overwhelmed, but there was a strong community of discipuli and magistri I could rely on. With the introduction of the new grading system this year, that tightly-knit community—not to mention the happiness of our discipuli—is threatened. Here is why.
 
 As a specialized high school, Brooklyn Latin constantly runs the risk of becoming a "pressure cooker" high school. So far, we have managed to avoid this kind of unhealthy competition among students. Discipuli prioritize their peers' achievement along with their own, and, in general, are happy to help. This is the TBLS that I have known and loved for the last two years. The support that I received from my peers has made me a stronger student and a more generous person.
