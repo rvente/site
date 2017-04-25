@@ -4,7 +4,7 @@ categories:
   - opinion
 author:
   - Ralph Vente
-  - Alexis  David
+  - Alexis David
 ---
 
 The question is simple: should we simplify our word choice when talking in seminar? Here are our thoughts.
