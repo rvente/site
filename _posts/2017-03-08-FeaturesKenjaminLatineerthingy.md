@@ -1,11 +1,7 @@
 ---
 title: Vale, Obama!
 categories:
-- features
 - news
-- entertainment
-- sports
-- opinion
 author:
   - Benjamin Leung
   - Kenny Chen
