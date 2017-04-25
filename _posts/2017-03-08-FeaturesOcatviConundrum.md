@@ -1,5 +1,5 @@
 ---
-title: The Ocatvi Conondrum
+title: The Ocatvi Conundrum
 categories:
   - features
 author: Jack Sarmiento
