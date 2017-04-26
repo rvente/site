@@ -23,7 +23,7 @@ Adding a new article is done in three easy steps:
 
 ## Front Matter
 
-This is what the website uses to organise everything. Copy it into the *begining* of the document before anything else. Delete the entire line of the categories you don't need. Don't leave a blank line. [Example](https://raw.githubusercontent.com/tblslatineer/tblslatineer.github.io/master/_posts/2017-12-23-SHSAT-Alexis-David.md)
+This is what the website uses to organise everything. Copy it into the *begining* of the document before anything else. Delete the entire line of the categories you don't need. Don't leave a blank line. [Example](http://raw.githubusercontent.com/tblslatineer/tblslatineer.github.io/master/_posts/2017-12-23-SHSAT-Alexis-David.md)
 
 ```
 ---
