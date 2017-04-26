@@ -50,7 +50,7 @@ The [authors page](https://github.com/tblslatineer/tblslatineer.github.io/blob/m
 
 ## Markdown
 
-Markdown is the name of the language you will use to write content in this website. [Here](https://tblslatineer.github.io/ink/markup/markup-html-tags-and-formatting/) is what all of the levels are and how they actually look on the site.
+Markdown is the name of the language you will use to write content in this website. [Here](https://mmistakes.github.io/minimal-mistakes/markup/markup-html-tags-and-formatting/) is what all of the levels are and how they actually look on the site.
 
 You can see the complete guide [here](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet). But for immediate reference:
 
