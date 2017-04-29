@@ -23,7 +23,7 @@ Adding a new article is done in three easy steps:
 
 ## Front Matter
 
-This is what the website uses to organise everything. Copy it into the *begining* of the document before anything else. Delete the entire line of the categories you don't need. Don't leave a blank line. [Example](https://raw.githubusercontent.com/tblslatineer/tblslatineer.github.io/master/_posts/2017-12-23-SHSAT-Alexis-David.md)
+This is what the website uses to organise everything. Copy it into the *begining* of the document before anything else. Delete the entire line of the categories you don't need. Don't leave a blank line. [Example](https://github.com/tblslatineer/tblslatineer.github.io/blob/master/_posts/2016-12-23-SHSAT-Alexis-David.md)
 
 ```
 ---
@@ -50,7 +50,7 @@ The [authors page](https://github.com/tblslatineer/tblslatineer.github.io/blob/m
 
 ## Markdown
 
-Markdown is the name of the language you will use to write content in this website. [Here](https://tblslatineer.github.io/ink/markup/markup-html-tags-and-formatting/) is what all of the levels are and how they actually look on the site.
+Markdown is the name of the language you will use to write content in this website. [Here](https://mmistakes.github.io/minimal-mistakes/markup/markup-html-tags-and-formatting/) is what all of the levels are and how they actually look on the site.
 
 You can see the complete guide [here](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet). But for immediate reference:
 
