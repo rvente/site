@@ -1,5 +1,5 @@
 ---
-title: "Trump's Innaguration: A New Era."
+title: "Trump's Inauguration: A New Era."
 categories:
   - news
 author: Chloe Li
