@@ -1,8 +1,7 @@
 ## agenda
 
-* add a ton of articles in
-* don't forget Harper's Article from the last issue.
-* ~add opinion and sports sections in the sidebar and to the homepage~
+* ~add a ton of articles in~
+* ~don't forget Harper's Article from the last issue.~
 * add the sidebar / toc to the section page
 * ~complete the front page for all of the section categories~
 * ~add a way to sort by author~
