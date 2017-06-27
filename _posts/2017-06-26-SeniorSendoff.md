@@ -1,5 +1,5 @@
 ---
-title: The Ocatvi Conundrum
+title: "Senior Sendoff!"
 categories:
   - features
 author: Ralph Vente
